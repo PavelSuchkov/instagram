@@ -12,7 +12,7 @@ export interface Fruit {
 // 5. Продуктам стооимость более 15 добавить любой стиль который их выделит в списке
 
 @Component({
-  selector: 'inst-work-with-directives',
+  selector: 'inst-directives-example',
   templateUrl: './work-with-directives.component.html',
   styleUrls: ['./work-with-directives.component.scss'],
 })
